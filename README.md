@@ -1,5 +1,5 @@
 # TentacleT3-ModbusTK-Example
-An example to map the Atlas Scientific Tentacle T3 to Modbus TCP on a Raspberry Pi.
+An example of exposing the Atlas Scientific Tentacle T3 to Modbus TCP on a Raspberry Pi.
 
 ### Hardware
 1. https://www.atlas-scientific.com/product_pages/components/tentacle-t3.html
